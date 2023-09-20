@@ -1,7 +1,7 @@
 <h1 align="center">Flowers I You (Api)</h1>
 
 <h3>ENG</h3>
-<h4>Api for the project, developed on internship at <a href="https://www.epam.com/">EPAM</a>, is the development of flower delivery service. Built on ASP.NET technology</h4> 
+<h4>Api for the project, developed on internship at <a href="https://www.epam.com/cis">EPAM</a>, is the development of flower delivery service. Built on ASP.NET technology</h4> 
 
 <h4>Api works in conjunction with the <a href="https://github.com/victusic/FlowersIYouFront">FlowersIYouFront</a> project</h4> 
 
@@ -14,7 +14,7 @@
 <h6>Training project</h6>
 
 <h3>RU</h3>
-<h4>Api для проект, разрабатываемый на стажировке в компании <a href="https://www.epam.com/">EPAM</a>, представляет из себя разработку сервиса по доставке цветов. Построенно на технологии ASP.NET</h4>
+<h4>Api для проект, разрабатываемый на стажировке в компании <a href="https://www.epam.com/cis">EPAM</a>, представляет из себя разработку сервиса по доставке цветов. Построенно на технологии ASP.NET</h4>
 
 <h4>Api работает совместно с проектом <a href="https://github.com/victusic/FlowersIYouFront">FlowersIYouFront</a></h4> 
 
